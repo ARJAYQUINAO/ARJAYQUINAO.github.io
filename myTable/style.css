@@ -1,0 +1,25 @@
+body{font-family:Arial, helvetica, sans-serif;
+text-transform:uppercase;
+}
+table, th, td{
+  border: 1px solid gray;
+  border-collapse:collapse;
+  text-align:center;
+  margin: 0px;
+  padding: 5px;
+}
+img{ 
+  width: 100px;
+}
+table{
+  width:600px;
+}
+p,  a{text-transform:none;
+}
+p{
+  font-size:12px;
+}
+a{
+  font-size:10px;
+  
+  
