@@ -1,0 +1,30 @@
+.container{
+  background-color:maroon;
+  color:yellow;
+  padding:0px 10px;
+  display:flex;
+  justify-content:space-around;
+}
+.image_container{
+  background-color:yellow;
+margin:0 auto;
+padding: 10;
+color:maroon;
+border-radius:5px;
+}
+.img_item{
+  font-size:30px;
+  background-color:#yellow;
+}
+.img_item2{
+  font-size:30px;
+  background-color:yellow;
+}
+.wsite-map{
+  margin:30px;
+ background-color:#a30000;
+  padding: 15px;
+  border:20px solid yellow;
+}
+a { color: #fff; }
+  
